@@ -1,0 +1,2 @@
+# mc-stock
+microservice stock
